@@ -52,6 +52,7 @@ int[][] nums=new int[2][3];
         }
         //String[] names={"Rutika","Vaibhav","Arjun","1234"};
         printGreeting("rutika");
+        printGreeting("Arjun");
     }
     public static void printGreeting(String... name)
     {
