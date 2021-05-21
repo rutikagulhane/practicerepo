@@ -12,6 +12,13 @@ public class StringPractice {
         {
             System.out.println(st);
         }
+
+        System.out.println("harini changes ");
+        System.out.println("new branch harini");
+        System.out.println("feature changes harini");
+
+
+
 int[][] nums=new int[2][3];
         nums[0][0]=30;
         nums[1][0]=40;
@@ -52,7 +59,12 @@ int[][] nums=new int[2][3];
         }
         //String[]git  names={"Rutika","Vaibhav","Arjun","1234"};
         printGreeting("rutika");
+<<<<<<<
+        printGreeting("Arjun");
+
+=======
         printGreeting("Arjun","Vaibhav");
+>>>>>>> 9d1caf3344f4c60a1416c851a7878b7329c9af59
     }
     public static void printGreeting(String... name)
     {
