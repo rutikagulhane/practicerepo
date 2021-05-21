@@ -17,6 +17,11 @@ public class StringPractice {
         System.out.println("new branch harini");
         System.out.println("feature changes harini");
 
+        System.out.println("changes to main branch ");
+
+
+        System.out.println("Rutika changes to new branch Rutika");
+
 
 
 int[][] nums=new int[2][3];
@@ -37,7 +42,7 @@ int[][] nums=new int[2][3];
                 System.out.println(n);
             }
         }
-        System.out.println("changes to main branch ");
+
 
         int[][] ds={
                     {2,5,3},
@@ -59,12 +64,12 @@ int[][] nums=new int[2][3];
         }
         //String[]git  names={"Rutika","Vaibhav","Arjun","1234"};
         printGreeting("rutika");
-<<<<<<<
+
         printGreeting("Arjun");
 
-=======
+
         printGreeting("Arjun","Vaibhav");
->>>>>>> 9d1caf3344f4c60a1416c851a7878b7329c9af59
+
     }
     public static void printGreeting(String... name)
     {
