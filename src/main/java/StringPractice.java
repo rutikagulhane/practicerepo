@@ -14,6 +14,7 @@ public class StringPractice {
         }
 
         System.out.println("harini changes ");
+        System.out.println("new branch harini");
 
 
 int[][] nums=new int[2][3];
@@ -56,7 +57,7 @@ int[][] nums=new int[2][3];
         }
         //String[]git  names={"Rutika","Vaibhav","Arjun","1234"};
         printGreeting("rutika");
-<<<<<<< HEAD
+<<<<<<<
         printGreeting("Arjun");
 
 =======
