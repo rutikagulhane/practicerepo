@@ -12,6 +12,10 @@ public class StringPractice {
         {
             System.out.println(st);
         }
+
+        System.out.println("harini changes ");
+
+
 int[][] nums=new int[2][3];
         nums[0][0]=30;
         nums[1][0]=40;
